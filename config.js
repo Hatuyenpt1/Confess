@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'iuu nhất trên đời <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <33',
     messLink: 'https://www.facebook.com/HatuyenPt.no1'
 }
