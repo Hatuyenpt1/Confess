@@ -1,18 +1,18 @@
 const CONFIG = {
     titleWeb: "Who are you",
-    introTitle: 'DEMO_Hà Minh Tuyền',
+    introTitle: 'Xin chào...tui là Hà Minh Tuyền',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim anh..
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    btnIntro: '^^HiHi Click vào đây^^',
+    title: 'Ngay từ cái nhìn đầu tiên, tôi đã bắt đầu có cảm giác với cậu 🥰',
+    desc: 'tôi đã chờ đợi ngày chúng ta bên nhau từ ngày ấy...ý cậu là sao?? ',
+    btnYes: 'đồng ý <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'đồ đang ghét...cậu có iu tớ không <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'iuu nhất trên đời <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
