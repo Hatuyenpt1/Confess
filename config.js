@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: 'Chao bạnnn',
-    introTitle: 'Bạn có phải là Huyền đáng iu khong'..Bấm vào bên dưới đi mà, có điều bất ngờ nha!!,
-    introDesc: 'Chúc bạn có một buổi tối zui zẻ..😄,
+    titleWeb: "Chao bạnnn",
+    introTitle: 'Bạn có phải là Huyền đáng iu khong..Bấm vào bên dưới đi mà, có điều bất ngờ nha!!',
+    introDesc: 'Chúc bạn có một buổi tối zui zẻ..😄',
     btnIntro: '^^HiHi Click vào đây^^',
     title: 'bên ấy có thick bên nàyy khongg?? ',
     btnYes: 'cóoo <33',
